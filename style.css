@@ -1,0 +1,13 @@
+.box {
+    display: inline-block;
+    background-color: red;
+    color: yellow;
+    width: 125px;
+    height: 125px;
+    font-size: 20px;
+  }
+
+  #dos {
+          background-color: black;
+          color: white;
+  } 
